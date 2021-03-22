@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>105-1055656_account-user-profile-avatar-avatar-user-profile-icon.png</file>
+    </qresource>
+</RCC>
