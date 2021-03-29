@@ -1,4 +1,4 @@
-#include "swetaa_212218104169.h"
+#include "mainwindow.h"
 
 #include <QApplication>
 
